@@ -1,8 +1,8 @@
 ---
-sort: 2
+sort: 3
 ---
 
-# Folders
+# Templates
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
