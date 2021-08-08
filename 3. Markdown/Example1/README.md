@@ -1,3 +1,3 @@
-# Template
+# Example1
 
 source: `{{ page.path }}`
