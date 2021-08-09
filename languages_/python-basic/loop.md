@@ -33,8 +33,7 @@ sort: 2
 
         `+=`, `-=`, `*=`, `/=`, `%=`, `**=`, `//=`: 왼쪽 변수에서 오른쪽 값을 계산하고 왼쪽 변수에 할당.
         
-        ㄴ ex) a += 2는 a = a+2와 같다.
-        
+        > ex) a += 2는 a = a+2와 같다.
     
 
 ---
@@ -83,7 +82,8 @@ sort: 2
     `break`: while문을 빠져나감.
 
     `else`: 조건이 거짓일때 실행하고 while문 종료.
-    ㄴ break로 반복이 끝나면 else절은 수행되지 않고 while문 종료.
+    
+    > break로 반복이 끝나면 else절은 수행되지 않고 while문 종료.
 
 ---
 
@@ -108,9 +108,10 @@ sort: 2
     `for i, j in a, b` 형태도 가능
     
     `else`: 반복이 정상 종료된 직후 코드 실행.
-    ㄴ break로 반복이 끝나면 else절은 수행되지 않고 for문 종료.
     
-    iterrows, enumerate
+    > break로 반복이 끝나면 else절은 수행되지 않고 for문 종료.
+    
+    iterrows, enumerate와 같은 함수 자주 쓰임.
 
 ---
 
@@ -118,4 +119,4 @@ sort: 2
 
 `end=''`: 결괏값 print 시 줄을 넘기지 않고 한 줄에 계속 이어서 출력.
 
-Indentation: 들여쓰기. colon(:)을 기준으로 들여써야 함.
+`Indentation`: 들여쓰기. colon(:)을 기준으로 들여써야 함.
