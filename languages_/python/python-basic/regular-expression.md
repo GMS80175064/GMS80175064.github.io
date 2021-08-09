@@ -1,5 +1,5 @@
 ---
-sort:5
+sort: 5
 ---
 
 # Regular Expression(정규표현식)
