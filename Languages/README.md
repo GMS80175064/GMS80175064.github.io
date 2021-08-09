@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# Python Code
+# Languages
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
