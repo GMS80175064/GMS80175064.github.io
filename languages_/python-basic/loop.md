@@ -35,16 +35,22 @@ sort: 2
         
         ㄴ ex) a += 2는 a = a+2와 같다.
         
-        
     
+
+
+
+
+
 - **If statement**
 
-    `if 조건문:
+    ``` python
+    if 조건문:
         pass
     elif 조건문:
-        수행할 문장1
+    	수행할 문장1  
     else:
-        수행할 문장A`
+    	수행할 문장A
+    ```
 
     조건문이 참이면 if문 수행.
 
@@ -58,17 +64,21 @@ sort: 2
 
     
 
+
+
 - **While loop**
 
-    `while 조건문:
+    ```python
+    while 조건문:
         수행할 문장1
-        수행할 문장2
-        if 조건문:
-            continue
-        elif 조건문:
-            수행할 문장A
-            (break)`
-    `else:` 
+    	수행할 문장2
+    	if 조건문:
+    		continue
+    	elif 조건문:
+    		수행할 문장A
+    		(break)
+    		else:
+    ```
 
     조건문이 참인 동안 while문 아래 문장을 반복해서 수행.
 
@@ -79,30 +89,39 @@ sort: 2
     `else`: 조건이 거짓일때 실행하고 while문 종료.
     ㄴ break로 반복이 끝나면 else절은 수행되지 않고 while문 종료.
 
-    
+
+
+
+
 
 - **For loop**
 
-    `for 변수 in 리스트, 튜플, 문자열:
-       수행할 문장1
-        if 조건문:
-            continue`
-    `else:`
-
-    ​	`for i in range(1, 11)
-    ​	for (first, last) in [(1,2), (3,4)]
-    ​	result = [num*3 for num in a if num%2==0]`
+    ```python
+    for 변수 in 리스트, 튜플, 문자열:
+    	수행할 문장1
+    	if 조건문:
+    		continue
+    	else:
+    
+    for i in range(1, 11):
+    	for (first, last) in [(1,2), (3,4)]:
+    		result = [num*3 for num in a if num%2==0]
+    ```
 
     리스트, 튜플, 문자열의 첫번째 요소부터 마지막 요소까지 차례로 변수에 대입되어 수행.
 
     `continue`: 아래 코드는 무시하고 for문의 다음 회차를 진행함.
 
     `for i, j in a, b` 형태도 가능
-
+    
     `else`: 반복이 정상 종료된 직후 코드 실행.
     ㄴ break로 반복이 끝나면 else절은 수행되지 않고 for문 종료.
-
+    
     iterrows, enumerate
+
+
+
+
 
 `range(1, 11)`: 숫자 1부터 10까지의 숫자를 데이터로 갖는 객체.
 
