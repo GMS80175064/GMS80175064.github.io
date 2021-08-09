@@ -37,9 +37,7 @@ sort: 2
         
     
 
-
-
-
+---
 
 - **If statement**
 
@@ -62,9 +60,7 @@ sort: 2
 
     `pass`: 아무 수행 없이 넘어감.
 
-    
-
-
+---
 
 - **While loop**
 
@@ -89,10 +85,7 @@ sort: 2
     `else`: 조건이 거짓일때 실행하고 while문 종료.
     ㄴ break로 반복이 끝나면 else절은 수행되지 않고 while문 종료.
 
-
-
-
-
+---
 
 - **For loop**
 
@@ -119,9 +112,7 @@ sort: 2
     
     iterrows, enumerate
 
-
-
-
+---
 
 `range(1, 11)`: 숫자 1부터 10까지의 숫자를 데이터로 갖는 객체.
 
