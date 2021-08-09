@@ -93,12 +93,12 @@ sort: 2
     for 변수 in 리스트, 튜플, 문자열:
     	수행할 문장1
     	if 조건문:
-    		continue
+            continue
     	else:
     
     for i in range(1, 11):
     	for (first, last) in [(1,2), (3,4)]:
-    		result = [num*3 for num in a if num%2==0]
+            result = [num*3 for num in a if num%2==0]
     ```
 
     리스트, 튜플, 문자열의 첫번째 요소부터 마지막 요소까지 차례로 변수에 대입되어 수행.

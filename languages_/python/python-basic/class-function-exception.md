@@ -132,7 +132,7 @@ sort: 4
 
 ---
 
-- **Class**
+- **Class(클래스)**
     - **Class 구조 만들기**
 
         ```python
