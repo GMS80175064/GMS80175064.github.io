@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# Python Basic
+# R Basic
 
 source: `{{ page.path }}`

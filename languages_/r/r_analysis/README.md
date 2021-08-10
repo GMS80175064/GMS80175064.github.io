@@ -1,7 +1,7 @@
 ---
-sort: 1
+sort: 2
 ---
 
-# Python Basic
+# R Data Analysis
 
 source: `{{ page.path }}`
