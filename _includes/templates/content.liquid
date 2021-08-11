@@ -13,16 +13,15 @@
         <div role="main" itemscope="itemscope" itemtype="https://schema.org/Article">
             <div class="markdown-body" itemprop="articleBody">
                 {{ content }}
+                <script src="https://utteranc.es/client.js"
+                        repo="GMS80175064/blog-comments"
+                        issue-term="pathname"
+                        theme="github-dark"
+                        crossorigin="anonymous"
+                        async>
+                </script>
             </div>
         </div>
         {% include templates/footer.liquid %}
     </div>
 </div>
-
-<script src="https://utteranc.es/client.js"
-        repo="GMS80175064/blog-comments"
-        issue-term="pathname"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
