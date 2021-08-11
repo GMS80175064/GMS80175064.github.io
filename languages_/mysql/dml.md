@@ -4,7 +4,7 @@ sort: 3
 
 # SQL DML
 
-- [ ] SQL DML (데이터 CRUD)
+- [ ] **SQL DML (데이터 CRUD)**
 
 - **Create(데이터 생성, 입력)**
 
