@@ -15,7 +15,7 @@ sort: 1
 ---
 
 - **Creating arrays**
-    
+  
     - **Dimensional array**
     
         `np.array([1,2])`: ndarray 배열 생성.
@@ -48,20 +48,23 @@ sort: 1
     
         - n을 아래처럼 바꾸면 차원, size 조절 가능.
     
-        `n=(x,)`: size가 x행인 1차원 array.
-        `n=(x,y)`: size가 x행 y열인 2차원 array.
-        `n=(x,y,z)`: size가 x행 y열인 z개의 3차원 array. 
+          `n=(x,)`: size가 x행인 1차원 array.
     
-        `,dtype=float)`: array 요소의 type을 변경.
+          `n=(x,y)`: size가 x행 y열인 2차원 array.
+    
+          `n=(x,y,z)`: size가 x행 y열인 z개의 3차원 array. 
 
-        > `int`: 소수점 있으면 버림.
+          `,dtype=float)`: array 요소의 type을 변경.
+
+          > `int`: 소수점 있으면 버림.
 
     - 기타(참고)
-
+    
         `np.eye(x)`: x*x 크기의 identity matrix(단위행렬) 생성.
     
         `np.empty()`: 초기화 되지 않은 array 생성.
-        ㄴ 컴퓨터 메모리에 있는, size에 맞는 array 값을 무작위로 불러옴.
+        
+        > 컴퓨터 메모리에 있는, size에 맞는 array 값을 무작위로 불러옴.
 
 ---
 
@@ -80,7 +83,7 @@ sort: 1
 ---
 
 - **Array indexing**
-    
+  
     - **Indexing**
     
         `x[n]`: 1차원 array 인덱싱.

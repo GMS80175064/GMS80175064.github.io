@@ -38,27 +38,27 @@ sort: 4
     - **입력값, 결괏값 없는 함수**
         - **입력값이 없는 함수**
     
-        괄호 안 매개변수를 비워놓으면 입력값 없이 결괏값만 있는 함수.
+          괄호 안 매개변수를 비워놓으면 입력값 없이 결괏값만 있는 함수.
     
-        e.g. `def say(): return 'Hi'`
+          e.g. `def say(): return 'Hi'`
     
-        사용: `결괏값을 받을 변수 = 함수이름()`
+          사용: `결괏값을 받을 변수 = 함수이름()`
     
         - **결괏값이 없는 함수**
     
-        return 명령어가 없으면 결괏값 없이 입력값만 있는 함수. print()로 인한 출력은 함수의 구성 요소 중 하나인 '수행할 문장'일 뿐.
+          return 명령어가 없으면 결괏값 없이 입력값만 있는 함수. print()로 인한 출력은 함수의 구성 요소 중 하나인 '수행할 문장'일 뿐.
     
-        `print(결괏값을 받을 변수)`: None 반환.
+          `print(결괏값을 받을 변수)`: None 반환.
     
-        사용: `함수이름(입력인수1, 입력인수2)`
+          사용: `함수이름(입력인수1, 입력인수2)`
     
         - **입력값, 결괏값 없는 함수**
     
-        매개변수도, return문도 없으면 입력값과 결괏값이 없는 함수.
+          매개변수도, return문도 없으면 입력값과 결괏값이 없는 함수.
     
-        e.g. `def say(): print('Hi')`
+          e.g. `def say(): print('Hi')`
     
-        사용: `함수이름()`
+          사용: `함수이름()`
     
     - **입력값 수가 몇 개일지 모를 때**
 
@@ -166,13 +166,13 @@ sort: 4
     
         - method parameter
     
-        `self.method(first,second)` = `class.method(self, first, second)`
+          `self.method(first,second)` = `class.method(self, first, second)`
     
         - method statement(예시)
     
-        `self.first = first`
+          `self.first = first`
     
-        `self.second = second`
+          `self.second = second`
     
     - **Constructor(생성자)**
     

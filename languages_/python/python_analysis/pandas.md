@@ -8,17 +8,19 @@ sort: 2
     - **DataFrame**
 
         DataFrame은 테이블과 같다.
+    
         여러 개의 Series가 합쳐진 것.
-
+    
         `pd.DataFrame()`: DataFrame 생성.
-
+    
         `,index=[])`: 인덱스 이름 설정.
-
+    
     - **Series**
-
+    
         Series는 리스트와 같다.
+        
         Series는 열이 하나다.
-
+        
         `Series([])`: Series 생성.
         
         > `,index=[])`: 각 인덱스 행 이름 설정.
@@ -29,7 +31,7 @@ sort: 2
 ---
 
 - **Reading data**
-    
+  
     - **pandas.read()**
     
         `pd.read_csv()`: csv 파일 열기
