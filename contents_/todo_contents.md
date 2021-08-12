@@ -40,8 +40,6 @@ cayley 2기: 활동기간 및 목적, 내용과 역할, 유튜브, 오픈데이�
 
 - 코드
 
-노션
-
 이번 커리큘럼 각색본
 
 matplotlib, seaborn, plotly 코드 하나씩
