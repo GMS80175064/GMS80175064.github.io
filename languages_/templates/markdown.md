@@ -177,9 +177,9 @@ Large images should always scale down and fit in the content container.
 This is the final element on the page and there should be no margin below this.
 ```
 
-
+---
 
 \+ How to escape?
 
-**bold** \*\*not bold\*\* 
+**bold** \*\*not bold\*\*(= \\\*\\\*not bold\\\*\\\*)
 
