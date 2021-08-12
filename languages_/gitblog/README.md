@@ -1,7 +1,7 @@
 ---
-sort: 6
+sort: 5
 ---
 
-# Github Blog Templates
+# Markdown and Templates
 
 source: `{{ page.path }}`

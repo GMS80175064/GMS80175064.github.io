@@ -4,7 +4,7 @@ sort: 1
 
 # Markdown Elements
 
-Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
+Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com/GMS80175064) should be blue with no underlines (unless hovered over).
 
 There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
 
@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. There should be whitespace betwee
 
 > There should be no margin above this first sentence.
 >
-> Blockquotes should be a lighter gray with a gray border along the left side.
+> > Blockquotes should be a lighter gray with a gray border along the left side.
 >
 > There should be no margin below this final sentence.
 
@@ -72,7 +72,7 @@ And an unordered task list:
 
 - [x] Create a sample markdown document
 - [x] Add task lists to it
-- [ ] Take a vacation
+- [x] Take a vacation
 
 And a "mixed" task list:
 
@@ -167,7 +167,7 @@ Inline code inside table cells should still be distinguishable.
 
 Small images should be shown at their actual size.
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![my profile](https://avatars.githubusercontent.com/u/62201736?v=4)
 
 Large images should always scale down and fit in the content container.
 
@@ -176,3 +176,10 @@ Large images should always scale down and fit in the content container.
 ```
 This is the final element on the page and there should be no margin below this.
 ```
+
+
+
+\+ How to escape?
+
+**bold** \*\*not bold\*\* 
+
