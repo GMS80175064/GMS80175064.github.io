@@ -46,5 +46,5 @@ Collecting konlpy Using cached konlpy-0.5.2-py2.py3-none-any.whl (19.4 MB) Requi
 ```tip
 **: 오류 해결법**
 
-JPype1-1.0.1.dist-info 폴더를 직접 삭제하고 `pip install jpype1`을 터미널에 작성해주면 되면 된다.
+JPype1-1.0.1.dist-info 폴더를 직접 삭제하고 `pip install jpype1`을 터미널에 작성해주면 된다.
 ```
