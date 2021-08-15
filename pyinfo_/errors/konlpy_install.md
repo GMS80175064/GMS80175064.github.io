@@ -26,8 +26,6 @@ JAVA 설치 -> JAVA HOME 환경변수 설정 -> JPype 파이썬 버전에 맞게
 ModuleNotFoundError: No module named 'konlpy' # 난 설치 했는데??
 ```
 
-
-
 ```warning
 **: konlpy 설치 중 터미널에 나온 설치 오류 메세지**
 
