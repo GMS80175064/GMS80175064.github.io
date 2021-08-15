@@ -21,12 +21,12 @@ JAVA 설치 -> JAVA HOME 환경변수 설정 -> JPype 파이썬 버전에 맞게
 - **Python Konlpy 설치 오류 메세지**
 
 ```warning
-### konlpy 설치 후 파이썬에서 나타난 오류 메세지.
-"ModuleNotFoundError: No module named 'konlpy'" # 난 설치 했는데??
+#### konlpy 설치 후 파이썬에서 나타난 오류 메세지.
+ModuleNotFoundError: No module named 'konlpy' # 난 설치 했는데??
 ```
 
 ```warning
-### konlpy 설치 중 터미널에 나온 설치 오류 메세지.
+#### konlpy 설치 중 터미널에 나온 설치 오류 메세지.
 >> pip install konlpy
 Collecting konlpy Using cached konlpy-0.5.2-py2.py3-none-any.whl (19.4 MB) Requirement already satisfied: beautifulsoup4==4.6.0 in c:\anaconda3\lib\site-packages (from konlpy) (4.6.0) Requirement already satisfied: numpy>=1.6 in c:\anaconda3\lib\site-packages (from konlpy) (1.18.1) Requirement already satisfied: lxml>=4.1.0 in c:\anaconda3\lib\site-packages (from konlpy) (4.5.0) Requirement already satisfied: JPype1>=0.7.0 in c:\anaconda3\lib\site-packages (from konlpy) (1.0.1) WARNING: No metadata found in c:\anaconda3\lib\site-packages ERROR: Could not install packages due to an EnvironmentError: [Errno 2] No such file or directory: 'c:\anaconda3\lib\site-packages\JPype1-1.0.1.dist-info\METADATA'
 ```
