@@ -6,13 +6,13 @@ sort: 1
 
 > 변수: 기호 =를 사용하여 만든 것.
 >
-> a = 1에서 a가 변수임.
+> `a=1`에서 a가 변수임.
 
 > Function: 독립적으로 사용.
 >
 > Method: 클래스 내부의 함수.
 >
-> ex. sum() vs. a.upper()
+> ex. `sum()` vs. `a.upper()`
 
 `type()`: 자료형 확인
 
