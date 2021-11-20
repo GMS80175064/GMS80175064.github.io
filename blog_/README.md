@@ -1,12 +1,11 @@
 ---
-sort: 3
+sort: 1
 ---
 
-# Python Tips
+# GitHub Blog
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
 ```
 
 {% include list.liquid all=true %}
-
