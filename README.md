@@ -6,7 +6,6 @@
 
 아직 아무것도 완성되지 않았으니 다음에 확인해주세요~
 
-<<<<<<< HEAD
 ---
 
 cv: 현재 넣을 내용 없음.
@@ -21,8 +20,5 @@ cv: 현재 넣을 내용 없음.
 * [솜SCI랩](https://sites.google.com/view/somssi-lab/%ED%99%88?authuser=0)
 
 ---
-=======
-
->>>>>>> 2d0955a6a5737ec268fc8d885f33e9d07868a33d
 
 {% include list.liquid all=true %}
