@@ -112,7 +112,7 @@ sort: 3
 3. **크롤러 실행**
 
    ```
-   scrapy crawl st11_bgest
+   scrapy crawl st11_best
    ```
 
 4. **Shell: css 경로 선택**
@@ -175,7 +175,7 @@ sort: 3
    import scrapy
    from st11.items import St11Item
    
-   class GmarketSpider(scrapy.Spider):
+   class St11BestSpider(scrapy.Spider):
        name = 'st11_best'
        allowed_domains = ['www.11st.co.kr/browsing/BestSeller.tmall?method=getBestSellerMain']
        start_urls = ['http://www.11st.co.kr/browsing/BestSeller.tmall?method=getBestSellerMain']
