@@ -26,9 +26,9 @@ Languages 깔끔하게 정리
 
 
 * Covid-19 Archive Donation Ceremony: National Library of Korea
-1. [National Library of Korea](https://news.cau.ac.kr/cms/FR_CON/BoardView.do?MENU_ID=10&CONTENTS_NO=&SITE_NO=5&BOARD_SEQ=1&BBS_SEQ=6611)
-2. [Yonhap News](https://www.yna.co.kr/view/PYH20220210250800013)
-3. [Chung-Ang University](https://news.cau.ac.kr/cms/FR_CON/BoardView.do?MENU_ID=10&CONTENTS_NO=&SITE_NO=5&BOARD_SEQ=1&BBS_SEQ=6611)
+1. [National Library of Korea](https://www.nl.go.kr/NL/contents/N50603000000.do?schM=view&id=42002&schBcid=normal0302)
+2. [Chung-Ang University](https://news.cau.ac.kr/cms/FR_CON/BoardView.do?MENU_ID=10&CONTENTS_NO=&SITE_NO=5&BOARD_SEQ=1&BBS_SEQ=6611)
+3. [Yonhap News](https://www.yna.co.kr/view/PYH20220210250800013)
 
 ---
 
