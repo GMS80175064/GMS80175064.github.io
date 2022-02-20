@@ -4,7 +4,7 @@ sort: 2
 
 # SQL DDL
 
-<center> < **SQL DDL (Schema 정의)** > </center>
+**<center> < SQL DDL (Schema 정의) > </center>** <br>
 
 - **Database**
 
