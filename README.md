@@ -19,6 +19,7 @@ Languages 깔끔하게 정리
 ## 사이트 임시
 
 * [Cosadama web](https://cosadama.github.io/cosadama/)
+* [Cosadama Blog](https://blog.cosadama.com/)
 * [Guest Lecture Interview](https://youtu.be/kQ_cynq0Yik?t=3060)
 * [Covid-19 우리의 기억 프로젝트](http://okfn.kr/projects/covid-19-our-memory/index.html)
 * [Team.Cayley - Open Data Day in Korea 2021](https://www.youtube.com/watch?v=L3i_Rng3i5s)
