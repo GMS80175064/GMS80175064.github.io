@@ -4,21 +4,21 @@ title: About Mins
 
 # Minseok Gim
 
-<div style="display: inline-flex; flex-direction: column; align-items: center; margin: 12px 0 20px 0;">
-  <!-- 말풍선 본체 (중앙 정렬 + 입체 카드 스타일) -->
-  <div style="position: relative; background: rgba(92, 107, 192, 0.08); border: 1.5px solid rgba(92, 107, 192, 0.3); border-radius: 14px; padding: 10px 20px; text-align: center; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);">
-    <div style="font-weight: 600; font-size: 0.95rem; line-height: 1.3;">
+<div style="background: rgba(16, 185, 129, 0.05); border: 1px solid rgba(16, 185, 129, 0.2); border-radius: 16px; padding: 20px 16px; margin: 16px 0 36px 0; text-align: center; max-width: 360px;">
+  <!-- 민트 말풍선 -->
+  <div style="display: inline-block; position: relative; background: rgba(16, 185, 129, 0.12); border: 1.5px solid rgba(16, 185, 129, 0.35); border-radius: 14px; padding: 8px 18px; text-align: center; box-shadow: 0 2px 8px rgba(16, 185, 129, 0.08);">
+    <div style="font-size: 0.92rem; font-weight: 500; letter-spacing: -0.3px; line-height: 1.3;">
       만나서 반갑습니다~
     </div>
-    <div style="font-size: 0.85rem; opacity: 0.8; font-style: italic; margin-top: 4px;">
+    <div style="font-size: 0.84rem; font-style: italic; opacity: 0.78; margin-top: 3px;">
       Nice to meet you!
     </div>
-    <!-- 정중앙 말풍선 꼬리 -->
-    <span style="position: absolute; bottom: -7px; left: 50%; transform: translateX(-50%); width: 0; height: 0; border-left: 6px solid transparent; border-right: 6px solid transparent; border-top: 7px solid rgba(92, 107, 192, 0.3);"></span>
+    <!-- 말풍선 꼬리 -->
+    <span style="position: absolute; bottom: -7px; left: 50%; transform: translateX(-50%); width: 0; height: 0; border-left: 6px solid transparent; border-right: 6px solid transparent; border-top: 7px solid rgba(16, 185, 129, 0.35);"></span>
   </div>
 
-  <!-- 정중앙 이모티콘 -->
-  <div style="margin-top: 10px; font-size: 1.25rem; line-height: 1;">
+  <!-- 이모티콘 -->
+  <div style="margin-top: 11px; font-size: 1.25rem; line-height: 1;">
     ꉂ(ᵔᗜᵔ*)
   </div>
 </div>
