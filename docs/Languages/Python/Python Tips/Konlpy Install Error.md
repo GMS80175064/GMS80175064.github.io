@@ -1,10 +1,4 @@
----
-title: Python Konlpy install error
-date: 2021-08-15
-categories: [Languages, Python, Python Erros]
----
-
-# Konlpy 설치 오류
+# Konlpy Install Error
 
 [당시 상황 정리](https://githubmemory.com/repo/konlpy/konlpy/issues/316)
 

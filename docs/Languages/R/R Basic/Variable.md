@@ -1,10 +1,4 @@
----
-title: R Variable
-date: 2021-08-10
-categories: [Languages, R, R Basic]
----
-
-# 변수
+# Variable
 
 자료 기본 형태: 수치형(숫자), 문자형(문자), 논리형(TURE, FALSE).
 

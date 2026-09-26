@@ -1,10 +1,4 @@
----
-title: Python Images
-date: 2021-08-15
-categories: [Languages, Python, Python Tips]
----
-
-# Image 첨부
+# Image
 
 - **코드에서 사진 첨부**
 

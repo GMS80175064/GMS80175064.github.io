@@ -1,10 +1,4 @@
----
-title: R Survival
-date: 2021-08-11
-categories: [Languages, R, R Analysis]
----
-
-# 생존분석
+# Survival
 
 - [ ] **생존분석(Survival Analysis)**
 

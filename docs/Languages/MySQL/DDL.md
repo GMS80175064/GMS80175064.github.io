@@ -1,10 +1,4 @@
----
-title: MySQL DDL
-date: 2022-02-20
-categories: [Languages, MySQL]
----
-
-# SQL DDL
+# DDL
 
 **<center> < SQL DDL (Schema 정의) > </center>** <br>
 

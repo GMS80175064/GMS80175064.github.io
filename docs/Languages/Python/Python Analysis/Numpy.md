@@ -1,9 +1,3 @@
----
-title: Python Numpy
-date: 2021-08-12
-categories: [Languages, Python, Python Analysis]
----
-
 # NumPy
 
 - NumPy는 같은 type만을 다룸. 즉 하나라도 float 형이면 정수도 float로 변환됨.

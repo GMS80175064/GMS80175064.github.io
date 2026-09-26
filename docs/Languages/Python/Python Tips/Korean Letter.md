@@ -1,10 +1,4 @@
----
-title: Python Korean
-date: 2021-08-15
-categories: [Languages, Python, Python Tips]
----
-
-# 한글 깨짐 해결
+# Korean Letter
 
 - **Google Colab**
 

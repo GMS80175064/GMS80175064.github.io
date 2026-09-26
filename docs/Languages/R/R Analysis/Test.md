@@ -1,9 +1,3 @@
----
-title: R Test
-date: 2021-08-10
-categories: [Languages, R, R Analysis]
----
-
 # Test
 
 - **One sample test**

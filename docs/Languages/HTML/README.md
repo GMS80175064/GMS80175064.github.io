@@ -1,9 +1,3 @@
----
-title: HTML
-date: 2021-08-12
-categories: [Languages, HTML]
----
-
 # HTML
 
 - **용어**

@@ -1,10 +1,4 @@
----
-title: R Discriminant
-date: 2021-08-11
-categories: [Languages, R, R Analysis]
----
-
-# 판별분석
+# Discriminant
 
 cross entropy: `-tlogP0-(1-t)log(1-P0)`
 

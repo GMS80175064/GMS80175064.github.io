@@ -1,10 +1,4 @@
----
-title: MySQL_DML
-date: 2022-02-20
-categories: [Languages, MySQL]
----
-
-# SQL DML
+# DML
 
 **<center> < SQL DML (데이터 CRUD) > </center>** <br>
 

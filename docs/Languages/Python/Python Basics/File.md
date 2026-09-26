@@ -1,10 +1,4 @@
----
-title: Python File
-date: 2021-08-12
-categories: [Languages, Python, Python Basic]
----
-
-# Input/Output(파일 입출력)
+# File and Input
 
 - **Input/Output(사용자 입력과 출력)**
 

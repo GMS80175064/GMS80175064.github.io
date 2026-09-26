@@ -1,10 +1,4 @@
----
-title: MySQL_File
-date: 2021-08-11
-categories: [Languages, MySQL]
----
-
-# 파일 실행 및 입력
+# File
 
 - **SQL 파일 실행**
     

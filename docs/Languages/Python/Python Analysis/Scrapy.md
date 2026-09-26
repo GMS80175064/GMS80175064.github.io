@@ -1,12 +1,7 @@
----
-title: Python Scrapy
-date: 2022-02-06
-categories: [Languages, Python, Python Analysis]
----
-
 # Scrapy
 
-```tip
+```
+tip
 수정 중~~~~
 ```
 

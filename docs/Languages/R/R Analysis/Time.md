@@ -1,10 +1,4 @@
----
-title: R Time series
-date: 2021-08-11
-categories: [Languages, R, R Analysis]
----
-
-# 시계열 데이터
+# Time series
 
 - [ ] **시계열 데이터(Time Series)**
 

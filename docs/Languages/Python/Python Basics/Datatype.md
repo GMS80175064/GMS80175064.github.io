@@ -1,10 +1,4 @@
----
-title: Python Data type
-date: 2022-02-21
-categories: [Languages, Python, Python Basic]
----
-
-# Data Type(자료형)
+# Data Type
 
 > 변수: 기호 =를 사용하여 만든 것.
 >

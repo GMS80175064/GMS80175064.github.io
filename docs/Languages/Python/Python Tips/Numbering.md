@@ -1,12 +1,7 @@
----
-title: Python Numbering
-date: 2021-08-15
-categories: [Languages, Python, Python Tips]
----
+# Numbering
 
-# 문자열 숫자 변환
-
-```note
+```
+note
 원래 같은 문자열을 숫자로 바꾸려면 반복문을 이용했었는데, sklearn의 LabelEncoder를 이용하면 더 편하게 변환이 가능하다고 한다.
 ```
 

@@ -1,10 +1,4 @@
----
-title: R Tabular
-date: 2021-08-11
-categories: [Languages, R, R Basic]
----
-
-# Tabular Data
+# Tabular
 
 - **Table 만들기**
 

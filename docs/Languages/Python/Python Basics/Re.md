@@ -1,10 +1,4 @@
----
-title: Python Re
-date: 2022-02-20
-categories: [Languages, Python, Python Basic]
----
-
-# Regular Expression(정규표현식)
+# Regular Expression
 
 정규표현식: 특정한 규칙을 가진 <**문자열>**의 패턴 표현에 사용하는 형식 언어.
 

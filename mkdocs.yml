@@ -3,5 +3,24 @@ site_name: 김민석 (Minseok Gim) Blog
 theme:
   name: material
   language: en
+  palette:
+    # 라이트 모드 설정
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
   features:
-    - navigation.sections
+    - navigation.sections      # 섹션 구분
+    - navigation.top           # 맨 위로 가기 버튼
+    - navigation.path          # 상단 경로 표시 (Breadcrumbs)
+    - navigation.instant       # 부드러운 페이지 전환 (SPA)
+    - content.code.copy        # 코드 한 줄 복사 버튼
+    - search.highlight         # 검색어 강조
+
+# 본문 서식 확장 기능 (강조 박스, 코드 블록 등)
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

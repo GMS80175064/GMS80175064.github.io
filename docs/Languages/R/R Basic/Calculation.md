@@ -1,10 +1,4 @@
----
-title: R Calculation
-date: 2021-08-10
-categories: [Languages, R, R Basic]
----
-
-# 연산
+# Calculation
 
 - **기초 수학**
 

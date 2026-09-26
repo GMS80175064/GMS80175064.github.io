@@ -1,10 +1,4 @@
----
-title: R Base
-date: 2021-08-10
-categories: [Languages, R, R Basic]
----
-
-# R 기초
+# R Basic
 
 - **출력**
 

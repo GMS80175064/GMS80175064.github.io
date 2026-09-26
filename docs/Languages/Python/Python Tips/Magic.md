@@ -1,10 +1,4 @@
----
-title: Python Magic
-date: 2021-08-15
-categories: [Languages, Python, Python Tips]
----
-
-# Magic 명령어
+# Magic commands
 
 ```note
 magic commands: ipython에서 제공하고, jupyter에서 사용가능한 '%'로 시작하는 내장된 명령어들이다. 터미널에서 사용할 만한 명령어들을 파이썬에서 사용한다고 이해하면 편하다.

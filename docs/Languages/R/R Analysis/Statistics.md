@@ -1,10 +1,4 @@
----
-title: R Statistics
-date: 2021-08-11
-categories: [Languages, R, R Basic]
----
-
-# 통계, 확률분포
+# Statistics
 
 - **통계량**
 

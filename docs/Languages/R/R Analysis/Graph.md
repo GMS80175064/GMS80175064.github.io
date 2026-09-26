@@ -1,10 +1,4 @@
----
-title: R Graph
-date: 2021-08-11
-categories: [Languages, R, R Basic]
----
-
-# 그래프
+# Graph
 
 - **그래픽스 함수**
     - **고수준 그래프**

@@ -1,10 +1,4 @@
----
-title: Python Loop
-date: 2021-08-09
-categories: [Languages, Python, Python Basic]
----
-
-# Loop(제어문, 반복문)
+# Loop
 
 - **Operators(조건문 연산자)**
     - **Comparison Operators(비교 연산자)**

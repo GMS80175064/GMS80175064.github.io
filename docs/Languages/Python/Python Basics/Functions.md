@@ -1,9 +1,3 @@
----
-title: Python Funtions
-date: 2021-08-12
-categories: [Languages, Python, Python Basic]
----
-
 # Class, Function & Exception
 
 - **Function**(**함수)**
