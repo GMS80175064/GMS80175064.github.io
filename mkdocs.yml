@@ -29,4 +29,5 @@ plugins:
   - search
   - git-revision-date-localized:
       type: date
-      locale: ko
+      locale: en
+      timezone: Asia/Seoul
