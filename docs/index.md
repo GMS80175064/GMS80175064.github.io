@@ -1,8 +1,9 @@
 ---
-title: About Mins
+title: 김민석 (Minseok Gim)
+description: PhD Student in Sociology at the University of Georgia researching hate, group conflict, morality, emotion, and computational sociology.
 ---
 
-# Minseok Gim
+# 김민석 (Minseok Gim)
 
 <!-- 바깥 영역: 은은한 연초록 민트 카드 (가운데 정렬) -->
 <div style="background: rgba(16, 185, 129, 0.05); border: 1px solid rgba(16, 185, 129, 0.22); border-radius: 16px; padding: 22px 16px; margin: 24px auto 38px auto; text-align: center; max-width: 360px;">
@@ -35,7 +36,7 @@ title: About Mins
 ### Contact & Profiles
 * **Academic Email:** `Minseok.Gim@uga.edu`
 * **Personal Email:** `gms80175064@gmail.com`
-* **Links:** [Google Scholar](https://scholar.google.com/citations?user=70S702wAAAA){:target="_blank"} | [ORCID](https://orcid.org/0009-0009-7189-0809){:target="_blank"} | [GitHub](https://github.com/GMS80175064){:target="_blank"}
+* **Links:** [Google Scholar](https://scholar.google.com/citations?user=70S702wAAAAJ){:target="_blank"} | [ORCID](https://orcid.org/0009-0009-7189-0809){:target="_blank"} | [GitHub](https://github.com/GMS80175064){:target="_blank"}
 
 ---
 

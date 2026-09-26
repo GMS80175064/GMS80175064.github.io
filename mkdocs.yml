@@ -54,13 +54,13 @@ extra:
       link: https://github.com/GMS80175064
       name: Github
     - icon: fontawesome/brands/google-scholar
-      link: https://scholar.google.com/citations?user=70S7O2wAAAA
+      link: https://scholar.google.com/citations?user=70S7O2wAAAAJ
       name: Google Scholar
     - icon: fontawesome/brands/orcid
       link: https://orcid.org/0009-0009-7189-0809
       name: ORCID
     - icon: fontawesome/solid/envelope
-      link: mailto:gms80175064@email.com
+      link: mailto:gms80175064@gmail.com
       name: Personal Email
     - icon: fontawesome/regular/envelope
       link: mailto:Minseok.Gim@uga.edu
