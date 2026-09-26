@@ -4,17 +4,25 @@ site_url: https://gms80175064.github.io
 
 copyright: Copyright &copy; 2026 Minseok Gim. All rights reserved.
 
+
 theme:
   name: material
   language: en
   palette:
-    # 라이트 모드 설정
+    # 1. 라이트 모드 (낮)
     - scheme: default
       primary: indigo
       accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+    # 2. 다크 모드 (밤)
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   features:
     - navigation.sections      # 섹션 구분
     - navigation.top           # 맨 위로 가기 버튼
@@ -23,6 +31,7 @@ theme:
     - content.code.copy        # 코드 한 줄 복사 버튼
     - search.highlight         # 검색어 강조
 
+
 # 본문 서식 확장 기능 (강조 박스, 코드 블록 등)
 markdown_extensions:
   - admonition
@@ -30,12 +39,14 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
 
+
 plugins:
   - search
   - git-revision-date-localized:
       type: iso_date
       locale: en
       timezone: Asia/Seoul
+
 
 extra:
   social:
