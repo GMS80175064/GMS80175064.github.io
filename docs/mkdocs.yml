@@ -1,0 +1,8 @@
+site_name: 김민석 (Minseok Gim) Blog
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.sections
+    - navigation.expand

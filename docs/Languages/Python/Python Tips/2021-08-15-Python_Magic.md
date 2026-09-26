@@ -1,0 +1,27 @@
+---
+title: Python Magic
+date: 2021-08-15
+categories: [Languages, Python, Python Tips]
+---
+
+# Magic 명령어
+
+```note
+magic commands: ipython에서 제공하고, jupyter에서 사용가능한 '%'로 시작하는 내장된 명령어들이다. 터미널에서 사용할 만한 명령어들을 파이썬에서 사용한다고 이해하면 편하다.
+```
+
+`%magic`: 모든 매직 명령어의 도움말 출력.
+
+`%lsmagic`: 모든 매직 명령어의 전체 리스트.
+
+`%cls`: 해당 화면을 클리어.
+
+`%who`: 파일에서 정의한 변수들의 리스트를 출력.
+
+`%hist`: 과거 사용한 모든 명령어의 리스트(history)를 출력.
+
+`%reset`: 변수 등의 작업공간 초기화.
+
+`%pwd`: 현재 디렉토리 정보 출력.
+
+`%ls`: 현재 디렉토리의 목록을 출력.
