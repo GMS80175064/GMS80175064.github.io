@@ -40,6 +40,9 @@ extra:
     - icon: fontawesome/brands/google-scholar
       link: https://scholar.google.com/citations?user=70S7O2wAAAA
       name: Google Scholar
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0009-0009-7189-0809
+      name: ORCID
     - icon: fontawesome/solid/envelope
       link: mailto:gms80175064@email.com
       name: Personal Email
