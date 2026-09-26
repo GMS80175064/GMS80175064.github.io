@@ -5,4 +5,3 @@ theme:
   language: en
   features:
     - navigation.sections
-    - navigation.expand
