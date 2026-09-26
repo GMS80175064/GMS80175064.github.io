@@ -12,7 +12,7 @@ title: About Mins
 ### Contact & Profiles
 * **Academic Email:** `Minseok.Gim@uga.edu`
 * **Personal Email:** `gms80175064@gmail.com`
-* **Links:** [Google Scholar](https://scholar.google.com/citations?user=70S702wAAAA) | [ORCID](https://orcid.org/0009-0009-7189-0809) | [GitHub](https://github.com/GMS80175064)
+* **Links:** [Google Scholar](https://scholar.google.com/citations?user=70S702wAAAA){:target="_blank"} | [ORCID](https://orcid.org/0009-0009-7189-0809){:target="_blank"} | [GitHub](https://github.com/GMS80175064){:target="_blank"}
 
 ---
 
