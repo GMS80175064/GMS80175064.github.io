@@ -1,5 +1,5 @@
 ---
-title: 김민석 (Minseok Gim)
+title: About Mins
 description: PhD Student in Sociology at the University of Georgia researching hate, group conflict, morality, emotion, and computational sociology.
 ---
 
