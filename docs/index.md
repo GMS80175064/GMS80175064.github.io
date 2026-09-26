@@ -4,6 +4,11 @@ title: About Mins
 
 # Minseok Gim
 
+> ╭────────────────────────────────╮  
+> │ 만나서 반갑습니다! Nice to meet you!                            │  
+> ╰─╮──────────────────────────────╯  
+>  ꉂ(ᵔᗜᵔ*)
+
 **PhD Student / Researcher** at University of Georgia  
 **Research Interests:** Hate, Group Conflict, Morality, Emotion, AI Ethics, Machine Learning
 
