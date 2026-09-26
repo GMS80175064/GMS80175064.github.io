@@ -29,6 +29,6 @@ plugins:
   - search
   - git-revision-date-localized:
       type: date
-     custom_format: "%b. %d, %Y"
+      custom_format: "%b. %d, %Y"
       locale: en
       timezone: Asia/Seoul
