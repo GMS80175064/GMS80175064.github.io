@@ -25,6 +25,8 @@ title: About Mins
   </div>
 </div>
 
+
+
 **PhD Student / Researcher** at University of Georgia  
 **Research Interests:** Hate, Group Conflict, Morality, Emotion, AI Ethics, Machine Learning
 
