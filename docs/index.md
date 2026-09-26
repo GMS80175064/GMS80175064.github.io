@@ -40,6 +40,6 @@ description: PhD Student in Sociology at the University of Georgia researching h
 
 ---
 
-## About Me
+## Bio & Introduction
 
 **CV and Introduction:** Will be updated soon... hopefully?
