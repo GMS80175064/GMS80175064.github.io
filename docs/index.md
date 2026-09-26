@@ -4,21 +4,21 @@ title: About Mins
 
 # Minseok Gim
 
-<div style="background: rgba(16, 185, 129, 0.05); border: 1px solid rgba(16, 185, 129, 0.2); border-radius: 16px; padding: 20px 16px; margin: 16px 0 36px 0; text-align: center; max-width: 360px;">
-  <!-- 민트 말풍선 -->
-  <div style="display: inline-block; position: relative; background: rgba(16, 185, 129, 0.12); border: 1.5px solid rgba(16, 185, 129, 0.35); border-radius: 14px; padding: 8px 18px; text-align: center; box-shadow: 0 2px 8px rgba(16, 185, 129, 0.08);">
-    <div style="font-size: 0.92rem; font-weight: 500; letter-spacing: -0.3px; line-height: 1.3;">
+<div style="background: rgba(92, 107, 192, 0.05); border: 1px solid rgba(92, 107, 192, 0.2); border-radius: 16px; padding: 22px 16px; margin: 24px auto 38px auto; text-align: center; max-width: 360px;">
+  <!-- 보라색 말풍선 -->
+  <div style="display: inline-block; position: relative; background: rgba(92, 107, 192, 0.12); border: 1.5px solid rgba(92, 107, 192, 0.35); border-radius: 14px; padding: 9px 20px; text-align: center; box-shadow: 0 2px 10px rgba(92, 107, 192, 0.08);">
+    <div style="font-size: 0.88rem; font-weight: 500; letter-spacing: -0.3px; line-height: 1.35;">
       만나서 반갑습니다~
     </div>
-    <div style="font-size: 0.84rem; font-style: italic; opacity: 0.78; margin-top: 3px;">
+    <div style="font-size: 0.88rem; font-style: italic; opacity: 0.8; margin-top: 3px; line-height: 1.35;">
       Nice to meet you!
     </div>
     <!-- 말풍선 꼬리 -->
-    <span style="position: absolute; bottom: -7px; left: 50%; transform: translateX(-50%); width: 0; height: 0; border-left: 6px solid transparent; border-right: 6px solid transparent; border-top: 7px solid rgba(16, 185, 129, 0.35);"></span>
+    <span style="position: absolute; bottom: -7px; left: 50%; transform: translateX(-50%); width: 0; height: 0; border-left: 6px solid transparent; border-right: 6px solid transparent; border-top: 7px solid rgba(92, 107, 192, 0.35);"></span>
   </div>
 
   <!-- 이모티콘 -->
-  <div style="margin-top: 11px; font-size: 1.25rem; line-height: 1;">
+  <div style="margin-top: 12px; font-size: 1.25rem; line-height: 1;">
     ꉂ(ᵔᗜᵔ*)
   </div>
 </div>
