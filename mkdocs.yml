@@ -28,7 +28,6 @@ markdown_extensions:
 plugins:
   - search
   - git-revision-date-localized:
-      type: date
-      custom_format: "%b. %d, %Y"
+      type: iso_date
       locale: en
       timezone: Asia/Seoul
